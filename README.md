@@ -6,9 +6,9 @@
 
 - I'm currently learning Java, Spring Boot and some others things about JavaScript; 
 
-- [blog](https://albertholopes.medium.com/) - Here I write about many things.
+- [Blog](https://albertholopes.medium.com/) - Here I write about many things;
 
-- [site](https://portifolio-albertolopes.herokuapp.com/) - Here you'll find my personal website.
+- [WebSite](https://portifolio-albertolopes.herokuapp.com/) - Here you'll find my personal website;
 
 ## My Development Stack
 
@@ -29,8 +29,7 @@
 
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Bitbucket"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Git"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/
+<code><img height="32" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Bitbucket"/></code>
 
 ## Coding Activity
 
@@ -44,6 +43,6 @@
 
 <p align="right">
   <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/albertolopes/AboutMe" alt="Visitors badge" />
+      <img src="https://badges.pufler.dev/visits/albertolopes/AboutMe" alt="Visitors badge"/>
    </a>
 </p>
