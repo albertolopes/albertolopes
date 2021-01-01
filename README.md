@@ -44,6 +44,6 @@
 
 <p align="right">
   <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/albertolopes/AboutMe" alt="Visitors badge"/>
+      <img src="https://badges.pufler.dev/visits/albertolopes/albertolopes" alt="Visitors badge" />
    </a>
 </p>
