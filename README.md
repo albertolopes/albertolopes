@@ -22,8 +22,9 @@
 <code><img height="32" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="CSS"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Bootstrap"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="React"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Angular"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MySQL"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Angular"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Angular"/></code>
 
 **DevOps**
 
