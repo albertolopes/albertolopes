@@ -14,23 +14,23 @@
 
 **Application and Data**
 
-<code><img height="32" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="c"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="Typescript"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Nodejs"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Javascript"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="JAVA"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JAVASCRIPT"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="SPRING"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="HTML5"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="CSS"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Bootstrap"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="React"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MySQL"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Angular"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Angular"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="POSTGRESQL"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MYSQL"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MONGODB"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="VUEJS"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="REACTJS"/></code>
 
 **DevOps**
 
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Bitbucket"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Bitbucket"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="DOCKER"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="HEROKU"/></code>
 
 ## Coding Activity
 
