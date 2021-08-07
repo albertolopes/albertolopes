@@ -12,19 +12,22 @@
 
 ## My Development Stack
 
-**Application and Data**
+**Lenguages and Frameworks**
 
 <code><img height="32" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="JAVA"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JAVASCRIPT"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="SPRING"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="HTML5"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="CSS"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="POSTGRESQL"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MYSQL"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MONGODB"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="VUEJS"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="REACTJS"/></code>
+
+**Databases**
+<code><img height="32" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MONGODB"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="POSTGRESQL"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MYSQL"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg" alt="NEO4J"/></code>
 
 **DevOps**
 
