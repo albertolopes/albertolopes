@@ -12,7 +12,7 @@
 
 ## My Development Stack
 
-**Lenguages and Frameworks**
+**Languages and Frameworks**
 
 <code><img height="32" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="JAVA"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JAVASCRIPT"/></code>
