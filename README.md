@@ -25,10 +25,10 @@
 
 **Databases**
 
-<code><img height="32" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="POSTGRESQL"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg" alt="NEO4J"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MONGODB"/></code>
-<code><img height="15" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="MYSQL"/></code>
+<code><img height="10" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="POSTGRESQL"/></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg" alt="NEO4J"/></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MONGODB"/></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="MYSQL"/></code>
 
 **DevOps**
 
