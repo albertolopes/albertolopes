@@ -19,10 +19,9 @@
 <code><img height="32" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="SPRING"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="NODE"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="EXPRESS"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="VUEJS"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="REACTJS"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="HTML5"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="CSS"/></code>
 
 **Databases**
 
@@ -35,7 +34,7 @@
 
 <code><img height="32" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="DOCKER"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="AZURE"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="AZURE"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="HEROKU"/></code>
 
 ## Coding Activity
