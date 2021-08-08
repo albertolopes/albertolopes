@@ -25,7 +25,7 @@
 
 **Databases**
 
-<code><img height="20" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="POSTGRESQL"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="POSTGRESQL"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="NEO4J"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MONGODB"/></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="MYSQL"/></code>
