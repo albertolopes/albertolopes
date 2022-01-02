@@ -6,7 +6,7 @@
 
 - I'm a software development analyst
 
-- I'm currently learning Java, Spring Boot, JavaScript and Node; 
+- I'm currently working and learning more about Java;
 
 - [Blog](https://albertholopes.medium.com/) - Here I write about many things;
 
