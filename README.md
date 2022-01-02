@@ -4,6 +4,8 @@
 
 - I'm graduated in Information Technology;
 
+- I'm a software development analyst
+
 - I'm currently learning Java, Spring Boot, JavaScript and Node; 
 
 - [Blog](https://albertholopes.medium.com/) - Here I write about many things;
