@@ -33,12 +33,6 @@
 <code><img height="20" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="MYSQL"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="REDIS"/></code>
 
-**DevOps**
-
-<code><img height="32" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="DOCKER"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="AZURE"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="HEROKU"/></code>
 
 ## Coding Activity
 
