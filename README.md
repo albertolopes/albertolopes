@@ -8,8 +8,6 @@
 
 - I'm currently working and learning more about Java;
 
-- [Blog](https://albertholopes.medium.com/) - Here I write about many things;
-
 - [WebSite](https://albertolopes.vercel.app/) - Here you'll find my personal website;
 
 ## My Development Stack
