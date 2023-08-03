@@ -2,8 +2,6 @@
 
 ### Things about me
 
-- I'm graduated in Information Technology;
-
 - I'm a software engineer | analyst
 
 - I'm currently working and learning more about Java;
