@@ -27,6 +27,14 @@
 <code><img height="20" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="MYSQL"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="REDIS"/></code>
 
+### ☁️ Cloud & DevOps
+<code><img height="32" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GOOGLE CLOUD"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="DOCKER"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="KUBERNETES"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="TERRAFORM"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="NGINX"/></code>
+
+
 ---
 
 ## 📊 GitHub Stats
