@@ -17,8 +17,9 @@
 <code><img height="32" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="SPRING"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="NODE"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="EXPRESS"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="VUEJS"/></code>
+<code><img height="32" src="[https://www.vectorlogo.zone](https://www.vectorlogo.zone)/logos/vuejs/vuejs-icon.svg" alt="VUEJS"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="REACTJS"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/reactjs/nextjs-icon.svg" alt="NEXTJS"/></code>
 
 ### Databases
 <code><img height="32" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="POSTGRESQL"/></code>
