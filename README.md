@@ -2,7 +2,6 @@
 
 ### A bit about me
 
-A bit about me
 I'm a Software Engineer and Analyst.
 Currently working with and learning more about Java.
 
