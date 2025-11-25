@@ -2,9 +2,11 @@
 
 ### A bit about me
 
-- I'm a Software Engineer and Analyst
-- Currently working with and learning more about Java
-- [Website](https://albertolopes.vercel.app/) – Check out my personal website
+A bit about me
+I'm a Software Engineer and Analyst.
+Currently working with and learning more about Java.
+
+[Website](https://albertolopes.vercel.app/) – Check out my personal website!
 
 ---
 
@@ -16,10 +18,10 @@
 <code><img height="32" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="SPRING"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="NODE"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="EXPRESS"/></code>
-<code><img height="32" src="[https://www.vectorlogo.zone](https://www.vectorlogo.zone)/logos/vuejs/vuejs-icon.svg" alt="VUEJS"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg" alt="EXPRESS"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="VUEJS"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="REACTJS"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/reactjs/nextjs-icon.svg" alt="NEXTJS"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="NEXTJS"/></code>
 
 ### Databases
 <code><img height="32" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="POSTGRESQL"/></code>
@@ -40,8 +42,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=albertolopes&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="GitHub stats"/>
+<p align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=albertolopes&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Top languages"/>
 </p>
 
